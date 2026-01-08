@@ -1,10 +1,7 @@
 SELECT
-    job_id,
     job_title,
     job_location,
-    job_schedule_type,
     salary_year_avg,
-    job_posted_date,
     name AS company_name
 FROM
     job_postings_fact
