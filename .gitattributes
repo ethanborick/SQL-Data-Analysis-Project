@@ -1,0 +1,7 @@
+*.sql linguist-language=SQL
+
+charts/* linguist-vendored
+
+*.md linguist-documentation
+
+.gitignore linguist-documentation
