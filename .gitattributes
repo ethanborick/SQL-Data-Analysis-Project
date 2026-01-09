@@ -1,4 +1,5 @@
-src/*.sql linguist-language=SQL
+src/*.sql linguist-detectable=true
+src/*.sql linguist-language=sql
 
 charts/* linguist-vendored
 
