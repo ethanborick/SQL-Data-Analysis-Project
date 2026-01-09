@@ -1,4 +1,4 @@
-*.sql linguist-language=SQL
+src/*.sql linguist-language=SQL
 
 charts/* linguist-vendored
 
