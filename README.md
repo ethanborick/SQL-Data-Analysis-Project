@@ -184,3 +184,5 @@ LIMIT 25
 ```
 \
 ![Skills Average Salaries](charts/query_5_chart.png)
+
+The average salary line shows a steep increase among the top skills, indicating that highly specialized skills command significantly higher compensation. As job demand increases, the salary trend drops sharply and then begins to flatten, suggesting diminishing salary returns for more common skills. This pattern highlights a trade-off where specialization drives higher pay, while widely demanded skills offer stability rather than premium compensation.
